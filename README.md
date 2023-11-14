@@ -7,18 +7,18 @@
 5. Run 'npm i' to install all dependencied for the project
 6. Run 'npm start' to start the dev server and run the project on your browser (normally it runs on http://localhost:3000)
 
-# Total time spent on this project (approximately 9-10 hours)
+# Total time spent on this project (approximately 10 hours)
 
-## Sunday 12 Nov 2023:
+## Sunday 12 Nov 2023: (2 hours)
 - Understanding the requirements
 - Deciding the tools and technologies to use for the needs of this project
 - Planning and designing the basic layout of the project
   
-## Monday 13 Nov 2023:
+## Monday 13 Nov 2023: (5 hours)
 - Implementing the core functionality of the project (all major components as well as navigation bar, footer and light/dark mode functionality) 
 - Working on styling the basic layout
 
-## Tuesday 14 Nov 2023:
+## Tuesday 14 Nov 2023: (3 hours)
 - Optimizing the code, where possible
 - Implementing and finishing the styling for both light and dark mode
 - Adding meaningful comments in the code
